@@ -1,0 +1,8 @@
+ENT.Base 			= "npc_vj_creature_base"
+ENT.Type 			= "ai"
+ENT.PrintName 		= "b0ner Spawner"
+ENT.Author 			= "Bean"
+ENT.Contact 		= "http://steamcommunity.com/groups/vrejgaming"
+ENT.Purpose 		= "Spawns things for you."
+ENT.Instructions 	= "Do you really need instructions for this?"
+ENT.Category		= "Beans Bag of Hot Garbage"
