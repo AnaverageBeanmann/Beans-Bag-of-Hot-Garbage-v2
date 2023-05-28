@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\bbohg\skeletons\obese\obese_male_01"
+	"$model" 1
+	"$color2" "{102 107 112}"
+}

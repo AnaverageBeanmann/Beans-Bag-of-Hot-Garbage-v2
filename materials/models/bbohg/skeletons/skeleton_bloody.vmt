@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/bbohg/skeletons/skeleton_bloody"
+	"$surfaceprop"	"default"
+	"$model"	1
+}
